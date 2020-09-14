@@ -4,7 +4,7 @@
 
 A sudoku solver written in python using backtracking.
 
-Sudokus are encoding using 2 dimensional arrays numpy arrays. 
+Sudokus are encoding using 2 dimensional numpy arrays. 
 Example:
 ```python
 sudoku = np.array([[2, 0, 0, 0, 0, 0, 0 ,0, 1],
